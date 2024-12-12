@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401547502620",
+    "project_id": "esam-youttube",
+    "storage_bucket": "esam-youttube.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401547502620:android:38cf4589c71339385aebd9",
+        "android_client_info": {
+          "package_name": "com.example.esam_yout_tube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLKaSOgwf8gCWR9T88Rzzb_H-sCdZYNNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
