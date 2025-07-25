@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:esam_yout_tube/video_detail_page.dart';
+import 'package:esam_yout_tube/video_details/presentation/pages/video_detail_page.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
@@ -180,3 +180,4 @@ void _onDidReceiveLocalNotification(
 
 @pragma('vm:entry-point')
 void notificationTapBackground(NotificationResponse notificationResponse) {}
+//firebase deploy --only functions
